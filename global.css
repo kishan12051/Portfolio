@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-sansation: Sansation;
+  --d-normal-font-size: Roboto;
+  --font-rhodium-libre: "Rhodium Libre";
+
+  /* font sizes */
+  --font-size-21xl: 40px;
+  --d-normal-font-size-size: 16px;
+  --font-size-5xl: 24px;
+  --font-size-mini: 15px;
+  --font-size-lg: 18px;
+
+  /* Colors */
+  --container-color: #fff;
+  --first-color: #ffb568;
+  --title-color: #2e2e2e;
+  --button-color: #2b2b2b;
+  --text-color: #595959;
+  --color-black: #000;
+
+  /* Paddings */
+  --padding-base: 16px;
+  --padding-5xl: 24px;
+
+  /* Border radiuses */
+  --br-mini: 15px;
+  --br-234xl: 253px;
+  --br-6xl: 25px;
+}
